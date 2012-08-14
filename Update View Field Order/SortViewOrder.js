@@ -1,4 +1,6 @@
-﻿$('tbody#tbodyViewColumns > tr > td.ms-authoringControls tbody').sortable({
+﻿$('tbody#tbodyViewColumns > tr > td.ms-authoringControls tbody tr:not(:first-child) select').removeAttr("onchange");
+
+$('tbody#tbodyViewColumns > tr > td.ms-authoringControls tbody').sortable({
 
     items: 'tr:not(:first-child)',
 
