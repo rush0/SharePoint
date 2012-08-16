@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="dc43fdbd-31f5-4c93-965c-b5ea6b62bd38" solutionId="dc43fdbd-31f5-4c93-965c-b5ea6b62bd38" resetWebServer="false" name="OS Labs - View Field Sorting" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3133ec2f-75e0-45f8-8c06-9089be4bac84" />
+  </features>
+</package>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+ 
+<!-- JS -->
+<Module Name="ViewFieldSortingJS" Path="Assets" Url="OSLabs/JS" RootWebOnly="True">
+    <File Url="jquery-ui.min.js" />
+    <File Url="viewsettings.debug.js" />
+    <File Url="viewsettings.min.js" />
+</Module>
+
+<!-- CSS -->
+  <Module Name="ViewFieldSortingCSS" Path="Assets" Url="OSLabs/CSS" RootWebOnly="True">
+    <File Url="ViewFieldSorting.css" />
+  </Module>
+  
+</Elements>

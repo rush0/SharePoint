@@ -1,0 +1,5 @@
+﻿tbody.ui-sortable tr:hover td.ms-authoringcontrols
+{
+    background:#e5e5e6;
+    cursor:pointer;
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  
+  <!--JQuery, JQuery UI-->
+  <CustomAction
+    ScriptSrc="~SiteCollection/OSLabs/JS/jquery-ui.min.js"
+    Location="ScriptLink"
+    Id="JQueryUI"
+    Sequence="151" />
+  
+  <!--View Field Sorting Script-->
+  <CustomAction
+    ScriptSrc="~SiteCollection/OSLabs/JS/viewsettings.min.js"
+    Location="ScriptLink"
+    Id="ViewFieldSortOrder"
+    Sequence="152" />
+</Elements>
